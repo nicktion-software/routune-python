@@ -42,7 +42,7 @@ dev = ["pytest>=8", "pytest-asyncio>=0.23", "mypy>=1.10", "datamodel-code-genera
 packages = ["src/routune"]
 
 [tool.hatch.build.targets.sdist]
-include = ["src/routune", "README.md", "CHANGELOG.md", "LICENSE", "pyproject.toml"]
+include = ["src/routune", "README.md", "CHANGELOG.md", "LICENSE", "SECURITY.md", "pyproject.toml"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
