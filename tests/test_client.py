@@ -20,7 +20,7 @@ from routune import (
     RoutuneError,
 )
 
-KEY = "rtn_live_0123456789abcdefghijklmnopqrstABCDEF"
+KEY = "rtn_test_not_a_real_key_for_tests"
 ORDER_ID = "b3c1a1de-0000-4000-8000-000000000001"
 
 
