@@ -2,7 +2,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/routune.svg)](https://pypi.org/project/routune/)
 [![Python versions](https://img.shields.io/pypi/pyversions/routune.svg)](https://pypi.org/project/routune/)
-[![CI](https://github.com/routune/routune-python/actions/workflows/ci.yml/badge.svg)](https://github.com/routune/routune-python/actions/workflows/ci.yml)
+[![CI](https://github.com/nicktion-software/routune-python/actions/workflows/ci.yml/badge.svg)](https://github.com/nicktion-software/routune-python/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 The official Python library for the [Routune API](https://routune.com/developers). Create orders, assign drivers and read your customers, locations and price sets from Python, synchronously or with `asyncio`.
@@ -218,7 +218,7 @@ This package follows [Semantic Versioning](https://semver.org). The API is versi
 ## Support
 
 - API documentation: [routune.com/developers](https://routune.com/developers)
-- Bugs in this library: [open an issue](https://github.com/routune/routune-python/issues)
+- Bugs in this library: [open an issue](https://github.com/nicktion-software/routune-python/issues)
 - Security issues: see [SECURITY.md](SECURITY.md). Do not open a public issue.
 
 ## License

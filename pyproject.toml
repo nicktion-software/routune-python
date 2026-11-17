@@ -32,8 +32,8 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://routune.com/developers"
-Repository = "https://github.com/routune/routune-python"
-Changelog = "https://github.com/routune/routune-python/blob/main/CHANGELOG.md"
+Repository = "https://github.com/nicktion-software/routune-python"
+Changelog = "https://github.com/nicktion-software/routune-python/blob/main/CHANGELOG.md"
 
 [project.optional-dependencies]
 dev = ["pytest>=8", "pytest-asyncio>=0.23", "mypy>=1.10", "datamodel-code-generator>=0.40", "build"]
